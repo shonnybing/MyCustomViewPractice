@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyLockScreenViewGroup">
+        <attr name="NoFinger_InnerCircle_Color" format="color"/>
+        <attr name="NoFinger_OutterCircle_Color" format="color"/>
+        <attr name="FingerOn_Color" format="color"/>
+        <attr name="FingerUp_Color" format="color"/>
+        <attr name="LockScreenView_Count" format="integer"/>
+        <attr name="TryTimes" format="integer"/>
+    </declare-styleable>
+</resources>

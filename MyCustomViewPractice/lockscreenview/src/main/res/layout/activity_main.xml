@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:id="@+id/ll"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.lockscreenview.MainActivity">
+
+    <com.example.lockscreenview.MyLockScreenViewGroup
+        android:id="@+id/viewGroup"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_vertical"
+        app:NoFinger_InnerCircle_Color="#333333"
+        app:NoFinger_OutterCircle_Color="#999999"
+        app:FingerOn_Color="#0066FF"
+        app:FingerUp_Color="#FFCC00"
+        app:LockScreenView_Count="3"
+        app:TryTimes="5"
+        />
+
+</RelativeLayout>

@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/deletablelistview/deletablelistview.iml" filepath="$PROJECT_DIR$/deletablelistview/deletablelistview.iml" />
       <module fileurl="file://$PROJECT_DIR$/deletablelistview2/deletablelistview2.iml" filepath="$PROJECT_DIR$/deletablelistview2/deletablelistview2.iml" />
       <module fileurl="file://$PROJECT_DIR$/horizontalprogressbar/horizontalprogressbar.iml" filepath="$PROJECT_DIR$/horizontalprogressbar/horizontalprogressbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lockscreenview/lockscreenview.iml" filepath="$PROJECT_DIR$/lockscreenview/lockscreenview.iml" />
       <module fileurl="file://$PROJECT_DIR$/mycolumnview/mycolumnview.iml" filepath="$PROJECT_DIR$/mycolumnview/mycolumnview.iml" />
       <module fileurl="file://$PROJECT_DIR$/roundprogressview/roundprogressview.iml" filepath="$PROJECT_DIR$/roundprogressview/roundprogressview.iml" />
     </modules>

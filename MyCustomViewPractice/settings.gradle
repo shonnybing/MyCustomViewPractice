@@ -1,1 +1,1 @@
-include ':app', ':deletablelistview', ':horizontalprogressbar', ':roundprogressview', ':mycolumnview', ':deletablelistview2'
+include ':app', ':deletablelistview', ':horizontalprogressbar', ':roundprogressview', ':mycolumnview', ':deletablelistview2', ':lockscreenview'
