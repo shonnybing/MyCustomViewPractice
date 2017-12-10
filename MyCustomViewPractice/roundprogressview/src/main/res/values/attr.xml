@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RoundProgressView">
+        <attr name="reachedCircleColor" format="color"/>
+        <attr name="unReachedCircleColor" format="color"/>
+        <attr name="reachedCircleSize" format="dimension"/>
+        <attr name="unReachedCircleSize" format="dimension"/>
+        <attr name="textColor" format="color"/>
+        <attr name="textSize" format="dimension"/>
+        <attr name="radius" format="dimension"/>
+    </declare-styleable>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyHorizontalProgressBar">
+        <attr name="reachedColor" format="color"/>
+        <attr name="unreachedColor" format="color"/>
+        <attr name="progressHeight" format="dimension"/>
+        <attr name="textSize" format="dimension"/>
+        <attr name="textColor" format="color"/>
+    </declare-styleable>
+</resources>

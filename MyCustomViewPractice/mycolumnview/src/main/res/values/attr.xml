@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyColumnView">
+        <attr name="gapWidth" format="integer"/>
+        <attr name="columnNum" format="integer"/>
+        <attr name="defaultColumnNum" format="integer"/>
+        <attr name="image" format="reference"/>
+        <attr name="radius" format="dimension"/>
+        <attr name="reachedColumnColor" format="color"/>
+        <attr name="unReachedColumnColor" format="color"/>
+        <attr name="strokeWidth" format="dimension"/>
+    </declare-styleable>
+</resources>

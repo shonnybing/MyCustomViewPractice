@@ -1,2 +1,13 @@
-# MyCustomViewPractice
-自定义View练习项目
+#MyCustomViewPractice
+- ##deletablelistview  
+向左滑动list的item，右边出现删除按钮，点击删除按钮可删除这个item  
+![list](list.gif)  
+- ##horizontalprogressbar  
+横向的进度条，右边用数值显示当前进度  
+![progress](process.gif)  
+- ##roundprogressview  
+圆形的进度条，中间用数值显示当前进度  
+![roundprogress](roundProgress.gif)  
+- ##columnview  
+音量控制view，上滑增加音量，下滑降低音量  
+![columnview](column.gif)  
